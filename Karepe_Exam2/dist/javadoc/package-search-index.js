@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"karepe_exam2.question1"},{"l":"karepe_exam2.question2"},{"l":"karepe_exam2.question3"},{"l":"karepe_exam2.question4"},{"l":"karepe_exam2.question5"},{"l":"karepe_exam2.question6"},{"l":"karepe_exam2.question7"},{"l":"karepe_exam2.question8"}]
